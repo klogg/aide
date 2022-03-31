@@ -70,7 +70,7 @@ char* after = NULL;
 static void usage(int exitvalue)
 {
   fprintf(stdout,
-	  _("Aide %s \n\n"
+	  _("Klogg's Aide %s \n\n"
 	    "Usage: aide [options] command\n\n"
 	    "Commands:\n"
 	    "  -i, --init\t\tInitialize the database\n"
